@@ -10,7 +10,7 @@ title: Home
 Nicholas C. Dunn, Eduardo Lopez and Richard Green
 **Bold Text**
 _Italic Text_
-**_Bold and Italic Text_**
+**_Bold and Italic Text_** 
 
 
 ## Research Question
