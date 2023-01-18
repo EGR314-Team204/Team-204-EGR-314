@@ -2,13 +2,16 @@
 title: Home
 ---
 
-# Home
+# Team 204 Semester Project
 
-## Introduction
+## EGR314 Spring 2023
 
+
+Nicholas C. Dunn, Eduardo Lopez and Richard Green
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
+
 
 ## Research Question
 
