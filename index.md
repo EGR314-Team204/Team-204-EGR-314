@@ -13,10 +13,9 @@ _Italic Text_
 **_Bold and Italic Text_**
 
 
-
 ## Research Question
 
-* Bullet Point 1
+* What is the meaning of life? - Richie Commit Ex
 * Bullet Point 2
 * Bullet Point 3
 
