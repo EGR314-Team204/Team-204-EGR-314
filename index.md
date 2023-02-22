@@ -6,12 +6,8 @@ title: Home
 
 ## EGR314 Spring 2023
 
-
+### Members
 Nicholas C. Dunn, Eduardo Lopez and Richard Green
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_** 
-
 
 ## Research Question
 
