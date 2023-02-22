@@ -5,13 +5,9 @@ title: Home
 # Team 204 Semester Project
 
 ## EGR314 Spring 2023
-
-
+Team 204, Professor Aukes
+### Members:
 Nicholas C. Dunn, Eduardo Lopez and Richard Green
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_** 
-
 
 ## Research Question
 
@@ -35,7 +31,7 @@ _Italic Text_
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
-
+* [example link to idealab](https://idealab.asu.edu)
+* [link to test](/test)
 
 ## References
