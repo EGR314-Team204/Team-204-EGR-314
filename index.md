@@ -33,6 +33,6 @@ Nicholas C. Dunn, Eduardo Lopez and Richard Green
 
 * [example link to idealab](https://idealab.asu.edu)
 * [link to test](/test)
-* [link to test 2](/Nick's test)
+* [link to nick-test](/nick-test)
 
 ## References
