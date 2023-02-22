@@ -31,7 +31,7 @@ Nicholas C. Dunn, Eduardo Lopez and Richard Green
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
-[link to test](/test)
+* [example link to idealab](https://idealab.asu.edu)
+* [link to test](/test)
 
 ## References
