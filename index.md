@@ -6,8 +6,10 @@ title: Home
 
 ## EGR314 Spring 2023
 Team 204, Professor Aukes
-### Members:
-Nicholas C. Dunn, Eduardo Lopez and Richard Green
+Members:  
+Nicholas C. Dunn  
+Eduardo Lopez  
+Richard Green
 
 ## Research Question
 
