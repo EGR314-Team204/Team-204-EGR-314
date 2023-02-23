@@ -13,15 +13,15 @@ Eduardo Lopez
 Richard Green
 
 # Table of Contents
-* [Introduction](/https://egr314-team204.github.io/#introduction-team-204-semester-project)
-* [Team Organization](/https://egr314-team204.github.io/#team-organization)
-* [User Needs, Benchmarking and Requirements](/https://egr314-team204.github.io/#user-needs-benchmarking-and-requirements)
-* [Design Ideation](/https://egr314-team204.github.io/#design-ideation)
-* [Presentation](/https://egr314-team204.github.io/#presentation)
-* [Selecting Our Design](/https://egr314-team204.github.io/#selecting-our-design)
-* [Block Diagram](/https://egr314-team204.github.io/#block-diagram)
-* [Component and Microcontroller Selection](/https://egr314-team204.github.io/#component-and-microcontroller-selection)
-* [Software and Hardware Proposal](/https://egr314-team204.github.io/#hardware-and-software-proposal)
+* [Introduction](https://egr314-team204.github.io/#introduction-team-204-semester-project)
+* [Team Organization](https://egr314-team204.github.io/#team-organization)
+* [User Needs, Benchmarking and Requirements](https://egr314-team204.github.io/#user-needs-benchmarking-and-requirements)
+* [Design Ideation](https://egr314-team204.github.io/#design-ideation)
+* [Presentation](https://egr314-team204.github.io/#presentation)
+* [Selecting Our Design](https://egr314-team204.github.io/#selecting-our-design)
+* [Block Diagram](https://egr314-team204.github.io/#block-diagram)
+* [Component and Microcontroller Selection](https://egr314-team204.github.io/#component-and-microcontroller-selection)
+* [Software and Hardware Proposal](https://egr314-team204.github.io/#hardware-and-software-proposal)
 
 
 
