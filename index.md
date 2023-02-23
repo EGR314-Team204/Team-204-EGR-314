@@ -2,14 +2,19 @@
 title: Home
 ---
 
-# Team 204 Semester Project
+# Information
 
 EGR314 Spring 2023  
-Team 204, Professor Aukes  
+Professor Aukes  
+Team 204  
 Members:  
 Nicholas C. Dunn  
 Eduardo Lopez  
 Richard Green
+
+## Introduction: Team 204 Semester Project
+Add an introduction
+Consider moving and updating the introduction from your product requirements document to the front of the report
 
 ## Team Organization
  Need to add:  
@@ -36,6 +41,38 @@ What was your process for organizing and ranking ideas? Who created or sketched 
  Embed your team's presentation video into a separate page of your site, accessible from the top-level page, using the "embed" function within YouTube.
 * External Link here
   
+# Our Design
+
+## Selecting Our Design
+Provide a figure/rendering of your product in its current form. Highlight features that satisfy user needs, with labels and arrows. You may update or re-work one of the images from design ideation, or start from scratch if you prefer.
+
+## Block Diagram
+Provide an up-to-date, high quality rendering of your team's block diagram  
+Discuss each teammate's subsystem and how they together achieve project requirements.
+
+## Component and Microcontroller Selection
+Include your component selection section / page.  
+Highlight (and only discuss) the selected components, not the unselected alternatives.  
+Be prepared to discuss your power budget  
+* Link to Component Selection
+
+Include your microcontroller selection assignment.  
+Be prepared to discuss your selected microcontroller, and the rationale for selecting it over the alternatives, based on your design requirements.  
+
+* Link to Microcontroller Selection
+
+## Hardware and Software Proposal
+Update your project report on your team website to include a high-quality, crisp (not blurry) rendering of your full project schematic(s). Do not use a screenshot.  
+Be prepared to discuss your schematic and Bill of Materials  
+* Link to Hardware Proposal
+
+Include your software proposal section / page, including a high-quality, crisp (not blurry) copy of your activity diagram(s) or state diagram(s), MCC configuration, and function declarations.  
+Be prepared to discuss your UML Diagram 1.  
+* Link to Software Proposal
+
+
+
+
 # Other website format resources
   
 ## Background
