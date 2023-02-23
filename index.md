@@ -11,12 +11,28 @@ Nicholas C. Dunn
 Eduardo Lopez  
 Richard Green
 
-## Research Question
+## Team Organization
 
-* What is the meaning of life? - Richie Commit Ex
-* Bullet Point 2
-* Bullet Point 3
+* External Link here
 
+## User Needs, Benchmarking, and Requirements
+
+* External Link here
+
+## Design Ideation
+
+* External Link here
+
+## Presentation
+
+* External Link here
+  
+  
+  
+  
+  
+  
+  
 ## Background
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
