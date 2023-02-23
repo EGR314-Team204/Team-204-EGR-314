@@ -12,6 +12,14 @@ Nicholas C. Dunn
 Eduardo Lopez  
 Richard Green
 
+# Table of Contents
+* [Introduction](/https://egr314-team204.github.io/#introduction-team-204-semester-project)
+* [Team Organization](/https://egr314-team204.github.io/#team-organization)
+* [User Needs, Benchmarking and Requirements](/https://egr314-team204.github.io/#user-needs-benchmarking-and-requirements)
+* 
+
+
+
 ## Introduction: Team 204 Semester Project
 Add an introduction
 Consider moving and updating the introduction from your product requirements document to the front of the report
