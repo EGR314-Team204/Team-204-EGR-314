@@ -55,7 +55,6 @@ What was your process for organizing and ranking ideas? Who created or sketched 
 ## External Links
 
 * [example link to idealab](https://idealab.asu.edu)
-* [link to test](/test)
-* [link to nick-test](/nick-test)
+
 
 ## References
