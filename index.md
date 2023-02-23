@@ -5,7 +5,7 @@ title: Home
 # Team 204 Semester Project
 
 ## EGR314 Spring 2023
-Team 204, Professor Aukes
+Team 204, Professor Aukes  
 Members:  
 Nicholas C. Dunn  
 Eduardo Lopez  
