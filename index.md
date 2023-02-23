@@ -20,8 +20,8 @@ Richard Green
 * External Link here
 
 ## Design Ideation
-
-* External Link here
+Summary goes here
+* {Link to User Needs, Benchmarking, and Requirements Page](/UserNeed)
 
 ## Presentation
 
