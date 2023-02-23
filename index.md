@@ -27,11 +27,7 @@ Richard Green
 
 * External Link here
   
-  
-  
-  
-  
-  
+# Other website format resources
   
 ## Background
 
