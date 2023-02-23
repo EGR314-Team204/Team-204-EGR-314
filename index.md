@@ -30,7 +30,7 @@ Need to add:
 What role each team member played in generating ideas.  
 What types of brainstorming worked? What didn't?  
 What was your process for organizing and ranking ideas? Who created or sketched each concept?  
-* [Link to Design Ideation Page](/Ideation)
+* [Link to Ideation Page](/Ideation)
 
 ## Presentation
 
