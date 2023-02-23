@@ -4,7 +4,7 @@ title: Home
 
 # Team 204 Semester Project
 
-## EGR314 Spring 2023
+EGR314 Spring 2023  
 Team 204, Professor Aukes  
 Members:  
 Nicholas C. Dunn  
@@ -30,7 +30,7 @@ Need to add:
 What role each team member played in generating ideas.  
 What types of brainstorming worked? What didn't?  
 What was your process for organizing and ranking ideas? Who created or sketched each concept?  
-* 
+* [Link to Design Ideation Page](/Ideation)
 
 ## Presentation
 
