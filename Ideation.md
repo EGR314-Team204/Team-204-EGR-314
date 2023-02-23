@@ -20,7 +20,7 @@ In order to productively figure out which items or points are necessa
 
 <img src="./media/media/image5.png" style="width:6.5in;height:3.875in" />
 <img src="./media/media/image6.png" style="width:6.5in;height:3.78125in" />  
-<img src="./media/media/image7.png" style="width:6.5in;height:6.36458in" />  
+
 
 
 In the groupings, we identiﬁed that we required 2 sensors (whatever those may be) and motorization. In our want we need our consumers to be satisﬁed with the product. This can manifest in many ways, from simple addons to complete design changes. Other groups specify ideas that would be standardized to include in the ﬁnal product, such as surge protectors or LED lights. 
@@ -29,11 +29,12 @@ In the groupings, we identiﬁed that we required 2 sensors (whatever�
 3. Create three product concept sketches (or similar) 
 
 **Concept #1: Outdoor Planter Automated Irrigation Network **
-
-<img src="./media/media/image8.png" style="width:6.5in;height:3.46875in" />
-<img src="./media/media/image9.jpeg" style="width:6.5in;height:4.59375in" />  
+<img src="./media/media/image7.png" style="width:6.5in;height:6.36458in" />  
 
 
 **Concept #2: Reptile Habitat Weather System **
+<img src="./media/media/image8.png" style="width:6.5in;height:3.46875in" />  
+
 
 **Concept #3: Smart Outdoor Sport Helmet **
+<img src="./media/media/image9.jpeg" style="width:6.5in;height:4.59375in" />  
