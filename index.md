@@ -33,7 +33,7 @@ What was your process for organizing and ranking ideas? Who created or sketched 
 * [Link to Ideation Page](/Ideation)
 
 ## Presentation
-
+ Embed your team's presentation video into a separate page of your site, accessible from the top-level page, using the "embed" function within YouTube.
 * External Link here
   
 # Other website format resources
