@@ -13,7 +13,7 @@ Richard Green
 
 ## Team Organization
 
-* External Link here
+* [link to TeamOrg](/TeamOrg)
 
 ## User Needs, Benchmarking, and Requirements
 
