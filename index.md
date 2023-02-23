@@ -21,7 +21,7 @@ Richard Green
 
 ## Design Ideation
 Summary goes here
-* {Link to User Needs, Benchmarking, and Requirements Page](/UserNeed)
+* [Link to User Needs, Benchmarking, and Requirements Page](/UserNeed)
 
 ## Presentation
 
