@@ -54,12 +54,12 @@ Discuss each teammate's subsystem and how they together achieve project requirem
 Include your component selection section / page.  
 Highlight (and only discuss) the selected components, not the unselected alternatives.  
 Be prepared to discuss your power budget  
-* Link to Component Selection
+* [Link to Component Selection](/ComponentSelect)
 
 Include your microcontroller selection assignment.  
 Be prepared to discuss your selected microcontroller, and the rationale for selecting it over the alternatives, based on your design requirements.  
 
-* Link to Microcontroller Selection
+* [Link to Microcontroller Selection](/MicroSelect)
 
 ## Hardware and Software Proposal
 Update your project report on your team website to include a high-quality, crisp (not blurry) rendering of your full project schematic(s). Do not use a screenshot.  
