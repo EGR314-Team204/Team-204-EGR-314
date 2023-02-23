@@ -30,10 +30,10 @@ Need to add:
 What role each team member played in generating ideas.  
 What types of brainstorming worked? What didn't?  
 What was your process for organizing and ranking ideas? Who created or sketched each concept?  
-* [Link to Design Ideation Page](/Ideation)
+* [Link to Ideation Page](/Ideation)
 
 ## Presentation
-
+ Embed your team's presentation video into a separate page of your site, accessible from the top-level page, using the "embed" function within YouTube.
 * External Link here
   
 # Other website format resources
