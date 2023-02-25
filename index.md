@@ -81,7 +81,7 @@ Be prepared to discuss your schematic and Bill of Materials
 
 Include your software proposal section / page, including a high-quality, crisp (not blurry) copy of your activity diagram(s) or state diagram(s), MCC configuration, and function declarations.  
 Be prepared to discuss your UML Diagram 1.  
-* Link to Software Proposal
+* [Link to Software Proposal](/Software)
 
 
 
