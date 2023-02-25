@@ -105,7 +105,8 @@ Be prepared to discuss your UML Diagram 1.
   
 ## Background
 
-![image caption](image1.png)
+![image caption]
+<img src="./media/media/image1.png" style="width:5.51299in;height:9.62264in" />
 
 [link to background](/background)
 
