@@ -30,10 +30,16 @@ Add an introduction
 Consider moving and updating the introduction from your product requirements document to the front of the report
 
 ## Team Organization
- Need to add:  
- Don't simply copy and paste the content from your original assignment; you need to claim ownership of your material by adding context. Convert this assignment into a report format by adding "connective tissue", that explains how you agreed on a project charter and mission statement rather than just pasting them in.  
-Add the remaining sections from your assignment to a new appendix page in the back, titled "Appendix A: Team Organization".  
-The Team Organization Page and associated appendix should each be separate subpages linked from the top-level page on your site.  
+Our team recognizes the value of this product design and development class as an opportunity to gain hands-on experience in product design, development, and teamwork. Therefore, we agreed to develop a team charter that outlines our goals and objectives for this class. Our team charter includes the following elements:  
+* Developing a product that meets the needs of our target market.
+* Gaining hands-on experience in the product design process.
+* Leveraging our skills and knowledge in embedded systems to design and develop a cutting-edge product that satisfies user needs.
+* earning how to work effectively as a team and communicate effectively with team members and stakeholders.  
+We also recognize that success in this project and product design process can take many forms, such as eventually selling units of a product, better demonstrating our knowledge to others, developing a new, mind-blowing addition to our portfolio of engineering expertise, furthering our passions, and making new professional connections. Our primary goal is to gain valuable skills and knowledge through this product design experience, which we can apply to our future careers.  
+To agree on our team charter, we held a meeting where we discussed our individual goals and objectives for this class. We then synthesized our individual goals and objectives to create a comprehensive team charter that aligned with the course requirements and our personal aspirations.  
+To guide our team through the product design process, we developed a mission statement that outlines the purpose of our project. Our mission statement is as follows:
+"The mission of our team is to successfully brainstorm and develop a product that can measure an aspect of the environment around us and communicate the data received through the internet to the end-user."  
+We developed our mission statement through a brainstorming session where we discussed the purpose and objectives of our product. We identified the need for a product that can measure environmental aspects and communicate the data to the end-user. Therefore, we developed our mission statement to reflect this purpose.  
 * [Link to Team Organization Page](/TeamOrg)
 
 ## User Needs, Benchmarking, and Requirements
