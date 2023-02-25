@@ -59,7 +59,9 @@ After we had finished this process, we each generated our own concepts. Richie m
 
 ## Presentation
  
-* [External Link here](https://www.youtube.com/watch?v=ebKb8as0qI8)
+* [External Link here](https://www.youtube.com/watch?v=ebKb8as0qI8)  
+  
+  
   
 # Our Design
 
