@@ -81,7 +81,6 @@ After we had finished this process, we each generated our own concepts. Richie m
 Provide a figure/rendering of your product in its current form. Highlight features that satisfy user needs, with labels and arrows. You may update or re-work one of the images from design ideation, or start from scratch if you prefer.
 
 ## Block Diagram
-+<img src="./media/media/image1.png" style="width:6.39653in;height:8.99028in" /> 
   
 With a team of 3 members, our project requirements were reduced to a single motor subsystem, a single weather related sensor, and the primary microcontroller. Each member took a subsystem, and constant communication between us has been crucial in deciding steps for each.  
   
@@ -90,6 +89,8 @@ Richie took the temperature sensor. This satisfies the project requirements as i
 Eddie has the hardest subsystem of all: the microcontroller. This is the primary brain of our device and is essential for the other 2 subsystems to work. It will read the data produced by the above sensor and display it.  
   
 Nick defaulted to the final available subsystem, the motor. In order to satisfy project requirements a motor controller was needed to control it. This communicates with the microcontroller, and will change it’s speed depending on the variables received from the temperature sensor through the microcontroller.
+  
+  <img src="./media/media/image1.png" style="width:6.39653in;height:8.99028in" />
   
   
 ## Component and Microcontroller Selection
