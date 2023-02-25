@@ -68,8 +68,16 @@ Provide a figure/rendering of your product in its current form. Highlight featur
 
 ## Block Diagram
 Provide an up-to-date, high quality rendering of your team's block diagram  
-Discuss each teammate's subsystem and how they together achieve project requirements.
-
+  
+With a team of 3 members, our project requirements were reduced to a single motor subsystem, a single weather related sensor, and the primary microcontroller. Each member took a subsystem, and constant communication between us has been crucial in deciding steps for each.  
+  
+Richie took the temperature sensor. This satisfies the project requirements as it will be able to detect changes in the outside world, and then relay changing data to the microcontroller to be displayed.  
+  
+Eddie has the hardest subsystem of all: the microcontroller. This is the primary brain of our device and is essential for the other 2 subsystems to work. It will read the data produced by the above sensor and display it.  
+  
+Nick defaulted to the final available subsystem, the motor. In order to satisfy project requirements a motor controller was needed to control it. This communicates with the microcontroller, and will change it’s speed depending on the variables received from the temperature sensor through the microcontroller.
+  
+  
 ## Component and Microcontroller Selection
 Include your component selection section / page.  
 Highlight (and only discuss) the selected components, not the unselected alternatives.  
