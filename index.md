@@ -25,10 +25,10 @@ Richard Green
 
 
 
-## Introduction: Team 204 Semester Project
-Add an introduction
-Consider moving and updating the introduction from your product requirements document to the front of the report
-
+## Introduction: Team 204 Semester Project  
+Our team has been tasked with creating a weather station that can sense the environment around us with the implementation of a controlled response. We decided on the idea to create a product that will sense the environment of a terrarium to control the climate inside. We will be utilizing a temperature sensor and motor with a fan balde connected that will be turned on and off based on the temperature inside utilizing a PIC microcontroller. As a team, we will use our knowledge gained from this semester to plan, design, and manufacture a printed circuit board that will combine our individual subsystems to work together. As we move along further in the semester we will document our work on how we came up with our design and every piece of information we have pertaining to our project. As of right now, we are currently working on individual PCBs for our subsystems to make sure they work and if they don’t we can fix any mistakes before we design our team board.  
+  
+  
 ## Team Organization
 Our team recognizes the value of this product design and development class as an opportunity to gain hands-on experience in product design, development, and teamwork. Therefore, we agreed to develop a team charter that outlines our goals and objectives for this class. Our team charter includes the following elements:  
 * Developing a product that meets the needs of our target market.
