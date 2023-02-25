@@ -58,8 +58,8 @@ After we had finished this process, we each generated our own concepts. Richie m
 * [Link to Ideation Page](/Ideation)
 
 ## Presentation
- Embed your team's presentation video into a separate page of your site, accessible from the top-level page, using the "embed" function within YouTube.
-* External Link here
+ 
+* [External Link here](https://www.youtube.com/watch?v=ebKb8as0qI8)
   
 # Our Design
 
