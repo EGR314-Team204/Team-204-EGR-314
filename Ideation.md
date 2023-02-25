@@ -29,12 +29,15 @@ In the groupings, we identiﬁed that we required 2 sensors (whatever�
 3. Create three product concept sketches (or similar) 
 
 **Concept #1: Outdoor Planter Automated Irrigation Network **  
+  
 <img src="./media/media/image7.png" style="width:6.5in;height:6.36458in" />  
 
-
+  
 **Concept #2: Reptile Habitat Weather System **  
+  
 <img src="./media/media/image8.png" style="width:6.5in;height:3.46875in" />  
 
-
+  
 **Concept #3: Smart Outdoor Sport Helmet **  
+  
 <img src="./media/media/image9.jpeg" style="width:6.5in;height:4.59375in" />  
