@@ -81,7 +81,7 @@ After we had finished this process, we each generated our own concepts. Richie m
 Provide a figure/rendering of your product in its current form. Highlight features that satisfy user needs, with labels and arrows. You may update or re-work one of the images from design ideation, or start from scratch if you prefer.
 
 ## Block Diagram
-Provide an up-to-date, high quality rendering of your team's block diagram  
++<img src="./media/media/image1.png" style="width:6.39653in;height:8.99028in" /> 
   
 With a team of 3 members, our project requirements were reduced to a single motor subsystem, a single weather related sensor, and the primary microcontroller. Each member took a subsystem, and constant communication between us has been crucial in deciding steps for each.  
   
