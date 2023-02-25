@@ -105,7 +105,7 @@ Be prepared to discuss your UML Diagram 1.
   
 ## Background
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![image caption](image1.png)
 
 [link to background](/background)
 
