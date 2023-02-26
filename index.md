@@ -48,11 +48,12 @@ We developed our mission statement through a brainstorming session where we disc
 * [Link to Team Organization Page](/TeamOrg)
   
   
-## User Needs, Benchmarking, and Requirements
-Need to add:  
-For example, how did your team organize, combine, and split needs into the list you arrived at? Justify the process by which your team assigned weights for importance, using both interview notes and internal team discussions.  
-Discuss the process by which your team converted user needs into specifications.  
-Discuss, with detail, how your design will be assessed according to the "aspects", to ensure your product meets your requirements. 
+## User Needs, Benchmarking, and Requirements  
+
+We started to gather user needs based on how we want our product to perform when in use. We generated about 60 user needs that include ease of use, replaceable parts, custom alerts and notifications just name a few. We continued our research by using keywords related to our product to find similar products on the market and gather reviews from users of that product. From those reviews we found that the consumers really like a sturdy reliable product with a large display and easy to use software. We then grouped our list of user needs together based on user preferences, system preferences, safety, durability, and marketing. This gave us a good idea of what the customer values in a product and we reflected that by prioritizing safety measures in our product.  
+  
+We strive to reach every aspect we defined through this research. We are prioritizing safety because that is always most important when dealing with electronics. For the hardware design we want to have a compact design that can withstand the elements while being cost efficient for the customer. The functionality and software of the product should be compatible with an application on a smart phone to monitor the sensors accompanied by a physical display that clearly shows the data received. Ideally we want to create a user experience that is stress free with clear and concise instructions that allow the user to use and maintain the product easily. We also want the user to be able to customize their device to meet their specific needs and the ability for the device to be used anywhere. The materials used in manufacturing should be cost effective without compromising quality but also can be recycled if need be. Finally safety is our number 1 priority. We want to avoid risk to the user by taking the precautions in manufacturing but also adding warning labels and instructions on how to operate the device safely.  
+  
 * [Link to User Needs, Benchmarking, and Requirements Page](/UserNeed)
   
   
@@ -93,15 +94,17 @@ Nick defaulted to the final available subsystem, the motor. In order to satisfy 
   <img src="./media/media/image1.png" style="width:6.39653in;height:8.99028in" />
   
   
-## Component and Microcontroller Selection
-Include your component selection section / page.  
-Highlight (and only discuss) the selected components, not the unselected alternatives.  
-Be prepared to discuss your power budget  
+## Component and Microcontroller Selection  
+Temperature Sensor: The LM90CIMM/NOPB temperature sensor was chosen for our design due to its high accuracy, low power consumption, and small form factor. With an accuracy of ±0.5°C over a temperature range of -55°C to +150°C, this sensor meets our requirements for precise temperature measurement. Its low power consumption also makes it ideal for power management, and its small form factor allows for easy integration into our product design. Additionally, the LM90CIMM/NOPB has a digital output that makes communication with our microcontroller possible, simplifying our design process. Overall, the LM90CIMM/NOPB temperature sensor is a reliable and efficient choice for our environment sensing needs.  
+  
+Motor Driver: The IFX9201SG motor driver was selected for our design due to its high efficiency, low power consumption, and compact size. This motor driver is capable of driving a single DC motor or two DC motors in parallel, making it versatile for our needs. Its advanced MOSFET technology allows for high efficiency, reducing power consumption and heat dissipation. Additionally, the IFX9201SG motor driver has built-in protection features such as overcurrent and overtemperature protection, ensuring the safety and longevity of our motor and driver. Its small form factor also allows for easy integration into our product design. Overall, the IFX9201SG motor driver is a reliable and efficient choice for driving our DC motor(s).  
+  
+Motor: The DC motor kit that includes 6 motors was selected for our design due to its high quality, durability, and compatibility with our motor driver. These motors have a rated voltage of 3-12V, making them compatible with our switching power source. Their high torque and low noise make them suitable for a variety of applications, including robotics and automation. The motors also have a long lifespan, reducing the need for frequent replacement. Additionally, the motors in this kit are compatible with the IFX9201SG motor driver we selected, allowing for easy integration into our design. Overall, the DC motor kit is a reliable and versatile choice for our motor needs.  
+  
+Microcontroller: The PIC18F27J53 microcontroller was chosen for our design due to its high processing power, versatility, and low power consumption. With a clock speed of up to 48 MHz, this microcontroller can handle complex tasks and algorithms with ease. Its versatile architecture and large memory capacity make it suitable for a wide range of applications, including control systems, data acquisition, and communication interfaces. It also has built-in communication interfaces, including modules for SPI, I2C, UART, USB and Ethernet, which simplify our design process. Additionally, this PIC has 28-pins which leaves plenty of GPIO's after our serial communication channels are already connected. Overall, the PIC18F27J53 microcontroller is a reliable and efficient choice for our embedded system needs. 
+  
 * [Link to Component Selection](/ComponentSelect)
-
-Include your microcontroller selection assignment.  
-Be prepared to discuss your selected microcontroller, and the rationale for selecting it over the alternatives, based on your design requirements.  
-
+  
 * [Link to Microcontroller Selection](/MicroSelect)
 
 ## Hardware and Software Proposal
