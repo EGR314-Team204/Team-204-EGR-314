@@ -79,8 +79,7 @@ After we had finished this process, we each generated our own concepts. Richie m
 # Our Design
 
 ## Selecting Our Design  
-<img src="./media/media/image1.png" style="width:6.5in;height:3.28611in" alt="Diagram Description automatically generated" />  
-  
+<img src="./media/media/image1.png" style="width:6.5in;height:3.28611in" alt="Diagram Description automatically generated" />    
 
 ## Block Diagram
   
@@ -92,7 +91,8 @@ Eddie has the hardest subsystem of all: the microcontroller. This is the primary
   
 Nick defaulted to the final available subsystem, the motor. In order to satisfy project requirements a motor controller was needed to control it. This communicates with the microcontroller, and will change it’s speed depending on the variables received from the temperature sensor through the microcontroller.
   
-  <img src="./media/media/image1.png" style="width:6.39653in;height:8.99028in" />
+<img src="./media/media/image1.png" style="width:6.40625in;height:9in" alt="Diagram Description automatically generated" />
+
   
   
 ## Component and Microcontroller Selection  
