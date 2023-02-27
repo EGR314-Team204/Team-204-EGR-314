@@ -80,7 +80,6 @@ After we had finished this process, we each generated our own concepts. Richie m
 
 ## Selecting Our Design  
 * External link due to coding complications](/https://drive.google.com/drive/folders/1mpu-mHRgAFssInN88vVPAWZBpdbiQPJI)
-*
 
 ## Block Diagram
   
