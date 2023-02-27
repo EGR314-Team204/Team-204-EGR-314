@@ -90,8 +90,8 @@ Richie took the temperature sensor. This satisfies the project requirements as i
 Eddie has the hardest subsystem of all: the microcontroller. This is the primary brain of our device and is essential for the other 2 subsystems to work. It will read the data produced by the above sensor and display it.  
   
 Nick defaulted to the final available subsystem, the motor. In order to satisfy project requirements a motor controller was needed to control it. This communicates with the microcontroller, and will change it’s speed depending on the variables received from the temperature sensor through the microcontroller.
-  
-<PINGE.png>
+
+* [BlockDiagram](/PINGE)
 
   
   
