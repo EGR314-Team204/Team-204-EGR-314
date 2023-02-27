@@ -91,7 +91,7 @@ Eddie has the hardest subsystem of all: the microcontroller. This is the primary
   
 Nick defaulted to the final available subsystem, the motor. In order to satisfy project requirements a motor controller was needed to control it. This communicates with the microcontroller, and will change it’s speed depending on the variables received from the temperature sensor through the microcontroller.
   
-<img src="./media/media/image1.png" style="width:6.40625in;height:9in" alt="Diagram Description automatically generated" />
+<PINGE.png>
 
   
   
@@ -109,12 +109,9 @@ Microcontroller: The PIC18F27J53 microcontroller was chosen for our design due t
 * [Link to Microcontroller Selection](/MicroSelect)
 
 ## Hardware and Software Proposal
-Update your project report on your team website to include a high-quality, crisp (not blurry) rendering of your full project schematic(s). Do not use a screenshot.  
-Be prepared to discuss your schematic and Bill of Materials  
-* Link to Hardware Proposal
 
-Include your software proposal section / page, including a high-quality, crisp (not blurry) copy of your activity diagram(s) or state diagram(s), MCC configuration, and function declarations.  
-Be prepared to discuss your UML Diagram 1.  
+* [Link to Hardware Proposal](/Schem)
+  
 * [Link to Software Proposal](/Software)
 
 
