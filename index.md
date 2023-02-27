@@ -114,29 +114,3 @@ Microcontroller: The PIC18F27J53 microcontroller was chosen for our design due t
   
 * [Link to Software Proposal](/Software)
 
-
-
-
-# Other website format resources
-  
-## Background
-
-![image caption]
-<img src="./media/media/image1.png" style="width:5.51299in;height:9.62264in" />
-
-[link to background](/background)
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-* [example link to idealab](https://idealab.asu.edu)
-
-
-## References
