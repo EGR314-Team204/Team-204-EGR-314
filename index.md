@@ -78,8 +78,9 @@ After we had finished this process, we each generated our own concepts. Richie m
   
 # Our Design
 
-## Selecting Our Design
-Provide a figure/rendering of your product in its current form. Highlight features that satisfy user needs, with labels and arrows. You may update or re-work one of the images from design ideation, or start from scratch if you prefer.
+## Selecting Our Design  
+<img src="./media/media/image1.png" style="width:6.5in;height:3.28611in" alt="Diagram Description automatically generated" />  
+  
 
 ## Block Diagram
   
