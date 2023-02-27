@@ -79,7 +79,8 @@ After we had finished this process, we each generated our own concepts. Richie m
 # Our Design
 
 ## Selecting Our Design  
-<img src="./media/media/image1.png" style="width:6.5in;height:3.28611in" alt="Diagram Description automatically generated" />    
+* External link due to coding complications](/https://drive.google.com/drive/folders/1mpu-mHRgAFssInN88vVPAWZBpdbiQPJI)
+*
 
 ## Block Diagram
   
