@@ -100,8 +100,8 @@
 <p><img src="./media/media/image3.jpg" style="width:1.69792in;height:1.69792in" /></p>
 </blockquote>
 <p><strong>PN/Description:</strong></p>
-<p>TC74A0-5.0VAT temperature sensor</p>
-<p><strong>Price:</strong> $1.73/each</p>
+<p>TC74A4-3.3V Temperature sensor</p>
+<p><strong>Price:</strong> $1.09/each</p>
 <p><a href="https://www.digikey.com/en/products/detail/microchip-technology/TC74A0-5-0VAT/442721"><u>LINK</u></a></p></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -109,9 +109,9 @@
 </tbody>
 </table>
 
-# Choice: Option 2, LM90CIMM/NOPB
+# Choice: Option 3, TC74A4-3.3V
 
-**Rationale:** Option 2 seems to align with our project needs because it is an inexpensive component that will sense temperature using 3.3V and through hole mounting. We chose this option because it is similar to other components but cheaper and will get delivered faster as well.
+**Rationale:** Option 3 seems to align with our project needs because it is an inexpensive component that will sense temperature using 3.3V and through hole mounting. We chose this option because it is similar to other components but cheaper and is used in class making it readily available.
 
 **<u>Motor Driver</u>**
 
