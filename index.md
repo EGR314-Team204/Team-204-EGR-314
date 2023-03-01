@@ -71,15 +71,7 @@ After we had finished this process, we each generated our own concepts. Richie m
 * [Link to Ideation Page](/Ideation)
 
 ## Presentation
- 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=ebKb8as0qI8" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=ebKb8as0qI8"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object> 
-  
+ *[https://www.youtube.com/watch?v=ebKb8as0qI8](https://www.youtube.com/watch?v=ebKb8as0qI8)
   
   
 # Our Design
