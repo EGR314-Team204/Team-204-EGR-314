@@ -72,7 +72,13 @@ After we had finished this process, we each generated our own concepts. Richie m
 
 ## Presentation
  
-* [](<iframe width="560" height="315" src="https://www.youtube.com/embed/ebKb8as0qI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)  
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=ebKb8as0qI8" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=ebKb8as0qI8"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object> 
   
   
   
