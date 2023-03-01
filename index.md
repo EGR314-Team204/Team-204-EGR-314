@@ -110,7 +110,6 @@ Microcontroller: The PIC18F27J53 microcontroller was chosen for our design due t
 
 ## Hardware and Software Proposal
 
-* [Link to Hardware Proposal]
 ![hardwareProp](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204_Schematic_Checkpoint2-page-0.png?raw=true)
   
 * [Link to Software Proposal](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Soft.png?raw=true)
