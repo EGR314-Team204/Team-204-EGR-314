@@ -79,7 +79,7 @@ After we had finished this process, we each generated our own concepts. Richie m
 # Our Design
 
 ## Selecting Our Design  
-* [External link due to coding complications](/https://drive.google.com/drive/folders/1mpu-mHRgAFssInN88vVPAWZBpdbiQPJI)
+![Final Concept](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/ConceptFinal.png?raw=true)
 
 ## Block Diagram
   
