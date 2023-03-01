@@ -91,7 +91,7 @@ Eddie has the hardest subsystem of all: the microcontroller. This is the primary
   
 Nick defaulted to the final available subsystem, the motor. In order to satisfy project requirements a motor controller was needed to control it. This communicates with the microcontroller, and will change it’s speed depending on the variables received from the temperature sensor through the microcontroller.
 
-* [BlockDiagram](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Blocks.png?raw=true)
+![BlockDiagram](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Blocks.png?raw=true)
 
   
   
