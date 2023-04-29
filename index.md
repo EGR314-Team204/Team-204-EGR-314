@@ -86,7 +86,7 @@ Richie took the temperature sensor. This satisfies the project requirements as i
   
 Eddie has the microcontroller. This is the primary brain of our device and is essential for the other subsystems to work. It will read the data produced by the above sensor and display it.  
 
-![BlockDiagram](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Blocks.png?raw=true)
+![BlockDiagram](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204BlockDiagram.png?raw=true)
 
   
   
