@@ -80,11 +80,11 @@ After we had finished this process, we generated a couple concepts. Including a 
 
 ## Block Diagram
   
-With a team of 3 members, our project requirements were reduced to a single motor subsystem, a single weather related sensor, and the primary microcontroller. Each member took a subsystem, and constant communication between us has been crucial in deciding steps for each.  
+With a team of 2 members, our project requirements were reduced to a single weather related sensor, and the primary microcontroller. Both members took a subsystem, and constant communication between us has been crucial in deciding steps for each.  
   
 Richie took the temperature sensor. This satisfies the project requirements as it will be able to detect changes in the outside world, and then relay changing data to the microcontroller to be displayed.  
   
-Eddie has the hardest subsystem of all: the microcontroller. This is the primary brain of our device and is essential for the other 2 subsystems to work. It will read the data produced by the above sensor and display it.  
+Eddie has the microcontroller. This is the primary brain of our device and is essential for the other subsystems to work. It will read the data produced by the above sensor and display it.  
 
 ![BlockDiagram](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Blocks.png?raw=true)
 
