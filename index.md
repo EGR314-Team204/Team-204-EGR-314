@@ -59,11 +59,11 @@ We strive to reach every aspect we defined through this research. We are priorit
 ## Design Ideation
 When designing our project, we needed to take into consideration many more ideas than the required project parameters. For instance, the product would be worthless if it caused harm to the user. With this in mind, we proceeded to create Jamboards. Jamboards are an online version of a wall of sticky notes, a place where we throw every conceivable point, idea, requirement and thought onto a page.  
   
-After doing this, our team member Richie went through the hundreds of notes and compiled them together. Removing repeated statements and combining very similar ones, he reduced the absurd number of notes into a manageable amount.  
+After doing this, we went through the hundreds of notes and compiled them together. Removing repeated statements and combining very similar ones, we reduced the absurd number of notes into a manageable amount.  
   
-Once Richie was done with compiling, it was Eddie’s turn to work. He sorted through each of the notes and stacked them based on a subject that each needed to go with. An example of this would be when he put anything to do with safety in the pile labeled “safety”.  
+Once we were done with compiling, it was time to sort through each of the notes and stack them based on a subject that each needed to go with. An example of this would be when he put anything to do with safety in the pile labeled “safety”.  
   
-When Eddie was finished, Nick went through and ranked each pile depending on how prevalent, necessary or required it was. Needless to say, project requirements and safety of the user/maker were among the highest ranked.  
+When we were finished, we then went through and ranked each pile depending on how prevalent, necessary or required it was. Needless to say, project requirements and safety of the user/maker were among the highest ranked.  
   
 After we had finished this process, we generated a couple concepts. Including a weather system helmet, an automated irrigation system and a reptile habitat monitoring system. Through a few hours of discussion, we decided to go with the reptile habitat, as it seemed to be the most feasible of the ideas generated for us to work on.  
   
