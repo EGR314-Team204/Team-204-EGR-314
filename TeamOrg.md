@@ -59,20 +59,20 @@ We will use a combination of Discord, Email and Texts to communicate while outsi
 |              |            |            |             |               |              |            |              |
 |--------------|------------|------------|-------------|---------------|--------------|------------|--------------|
 | **Time**     | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| **8:00 AM**  | \-         | N          | N           | N             | N            | \-         | E            |
-| **9:00 AM**  | \-         | N          | N           | N             | N            | \-         | E            |
-| **10:00 AM** | \-         | R/N        | R/N         | R/N           | R/N          | N          | E            |
-| **11:00 AM** | \-         | R/N        | R/N         | R/N           | R/N          | N          | E/N          |
-| **12:00 PM** | \-         | E/N        | N           | E/N           | N            | R/N        | E/N          |
-| **1:00 PM**  | \-         | E/N        | N           | E/N           | N            | R/N        | E/N          |
-| **2:00 PM**  | \-         | E/N        | \-          | E/N           | \-           | R/N        | E/N          |
-| **3:00 PM**  | \-         | E/N        | \-          | E             | \-           | R/N        | E/N          |
-| **4:00 PM**  | \-         | R/E/N      | E           | R/E           | E            | E/N        | E/N          |
-| **5:00 PM**  | \-         | R/E/N      | E/N         | R/E           | E/N          | E/N        | E/N          |
-| **6:00 PM**  | \-         | R/E/N      | R           | R/E           | R            | E          | E            |
+| **8:00 AM**  | \-         |            |             |               |              | \-         | E            |
+| **9:00 AM**  | \-         |            |             |               |              | \-         | E            |
+| **10:00 AM** | \-         | R          | R           | R             | R            |            | E            |
+| **11:00 AM** | \-         | R          | R           | R             | R            |            | E            |
+| **12:00 PM** | \-         | E          |             | E             |              | R          | E            |
+| **1:00 PM**  | \-         | E          |             | E             |              | R          | E            |
+| **2:00 PM**  | \-         | E          | \-          | E             | \-           | R          | E            |
+| **3:00 PM**  | \-         | E          | \-          | E             | \-           | R          | E            |
+| **4:00 PM**  | \-         | R/E        | E           | R/E           | E            | E          | E            |
+| **5:00 PM**  | \-         | R/E        | E           | R/E           | E            | E          | E            |
+| **6:00 PM**  | \-         | R/E        | R           | R/E           | R            | E          | E            |
 | **7:00 PM**  | \-         | R/E        | R           | R/E           | R            | E          | E            |
-| **8:00 PM**  | \-         | E          | N           | E             | N            | E          | \-           |
-| **9:00 PM**  | \-         | \-         | N           | \-            | N            | E          | \-           |
+| **8:00 PM**  | \-         | E          |             | E             |              | E          | \-           |
+| **9:00 PM**  | \-         | \-         |             | \-            |              | E          | \-           |
 
 
 **Team Coordination:**
@@ -83,8 +83,6 @@ First we will establish clear deadlines for each task and assign specific team m
 **Roles and Responsibilities:**
 
 As a smaller team, it is easier for us to communicate with each other. That being said, as a team we must have dedicated roles to keep each member on track for success. For this, we would need a Leader, someone who gives direction and keeps people on track. A Manager would also be advised, as someone who checks progress often and marks down what needs progress by when. FInally, a Compiler would be necessary, as they would be in charge of finalizing each assignment. After consideration, each member of our team has chosen a role for themselves based on where they believe their strength lies.
-
-Nicholas Dunn - Leader
 
 Eduardo Lopez - Manager
 
@@ -97,8 +95,6 @@ When conflict arises in the team, it would be best to immediately diffuse the si
 
 
 **Signatures:**
-
-- Nicholas Christopher Dunn
 
 <!-- -->
 
