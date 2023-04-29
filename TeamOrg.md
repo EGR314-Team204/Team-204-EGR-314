@@ -28,14 +28,6 @@ We will use a combination of Discord, Email and Texts to communicate while outsi
 <td>Email (s)</td>
 <td>Phone Number (s)</td>
 </tr>
-<tr class="even">
-<td>Nicholas Dunn</td>
-<td>Accelerator#2230</td>
-<td><p><a href="mailto:nickdunn2001isking@gmail.com"><u>nickdunn2001isking@gmail.com</u></a></p>
-<p><a href="mailto:ncdunn@asu.edu"><u>ncdunn@asu.edu</u></a></p></td>
-<td><p>480-354-1915</p>
-<p>480-442-2687</p></td>
-</tr>
 <tr class="odd">
 <td>Richie Green</td>
 <td>Greeko#4497</td>
