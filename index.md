@@ -65,7 +65,7 @@ Once Richie was done with compiling, it was Eddie’s turn to work. He sorted th
   
 When Eddie was finished, Nick went through and ranked each pile depending on how prevalent, necessary or required it was. Needless to say, project requirements and safety of the user/maker were among the highest ranked.  
   
-After we had finished this process, we each generated our own concepts. Richie made a weather system helmet, Eddie thought of an irrigation system, and Nick created a reptile habitat monitoring system. Through a few hours of discussion, we decided to go with the reptile habitat, as it seemed to be the most feasible of the ideas generated for us to work on.  
+After we had finished this process, we generated a couple concepts. Including a weather system helmet, an automated irrigation system and a reptile habitat monitoring system. Through a few hours of discussion, we decided to go with the reptile habitat, as it seemed to be the most feasible of the ideas generated for us to work on.  
   
 * [Link to Ideation Page](/Ideation)
 
@@ -85,8 +85,6 @@ With a team of 3 members, our project requirements were reduced to a single moto
 Richie took the temperature sensor. This satisfies the project requirements as it will be able to detect changes in the outside world, and then relay changing data to the microcontroller to be displayed.  
   
 Eddie has the hardest subsystem of all: the microcontroller. This is the primary brain of our device and is essential for the other 2 subsystems to work. It will read the data produced by the above sensor and display it.  
-  
-Nick defaulted to the final available subsystem, the motor. In order to satisfy project requirements a motor controller was needed to control it. This communicates with the microcontroller, and will change it’s speed depending on the variables received from the temperature sensor through the microcontroller.
 
 ![BlockDiagram](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Blocks.png?raw=true)
 
