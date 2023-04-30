@@ -67,7 +67,6 @@
 <p>●</p>
 <p>●</p>
 <p>●</p>
-<p>●</p>
 </blockquote></td>
 <td><p>Inexpensive</p>
 <p>3.3V output voltage</p>
@@ -88,16 +87,17 @@
 <p>●</p>
 <p>●</p>
 </blockquote></td>
-<td>inexpensive Senses temperature Goos supply voltage</td>
+<td>inexpensive</p>
+<p>3.3V input</p>
+<p>Surface mount Meets project requirements</p></td>
 <td><blockquote>
 <p>●</p>
-<p>●</p>
 </blockquote></td>
-<td>Through hole Does not meet project requirements</td>
+<td>Too small to hand solder</td>
 </tr>
 <tr class="even">
 <td><blockquote>
-<p><img src="./media/media/image3.jpg" style="width:1.69792in;height:1.69792in" /></p>
+<p><img src="./media/media/image2.jpg" style="width:1.69792in;height:1.69792in" /></p>
 </blockquote>
 <p><strong>PN/Description:</strong></p>
 <p>TC74A4-3.3V Temperature sensor</p>
@@ -111,5 +111,5 @@
 
 # Choice: Option 3, TC74A4-3.3V
 
-**Rationale:** Option 3 seems to align with our project needs because it is an inexpensive component that will sense temperature using 3.3V and through hole mounting. We chose this option because it is similar to other components but cheaper and is used in class making it readily available.
+**Rationale:** Option 3 seems to align with our project needs because it is an inexpensive SMD component that will sense temperature using 3.3V. We chose this option because it is similar to other components but cheaper and is used in class making it readily available.
 
