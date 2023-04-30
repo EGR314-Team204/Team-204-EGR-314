@@ -59,7 +59,7 @@ We strive to reach every aspect we defined through this research. We are priorit
 
 Product Design-
 
-i. Design will optimize space to acquire a sleek and compact size
+i. Design will optimize space to acquire a sleek and compact size <br>
 ii. Design will be able to withstand harsh outdoor conditions and be weather-resistant
 iii. Must be cost efficient for the consumer.
 iv. Must be compact for portability.
