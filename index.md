@@ -76,7 +76,9 @@ After we had finished this process, we generated a couple concepts. Including a 
 # Our Design
 
 ## Selecting Our Design  
-![Final Concept](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/ConceptFinal.png?raw=true)
+![Final Concept](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/314_Concept.png?raw=true)
+
+This Reptile Habitat idea was the most sensible choice for our project. The idea allows us to satisfy all course and user based requirements with room for addition beyond just the course requirements. The design has a variety of options that could be integrated into it like mutliple environemnt sensors, an actuator, and wifi capabilties for remote monitoring. As a proof of concept and with limited team members the temperature sensor and microcontroller were the decided susbsytems to create the base for this idea, the one thing that changed from the ideation is the motor subsystem which was dropped.
 
 ## Block Diagram
   
