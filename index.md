@@ -134,6 +134,8 @@ Eddie has the microcontroller. This is the primary brain of our device and is es
 Temperature Sensor: The TC74A4 temperature sensor was chosen for our design due to its high accuracy, low power consumption, and small form factor. With an accuracy of ±0.5°C over a temperature range of -55°C to +150°C, this sensor meets our requirements for precise temperature measurement. Its low power consumption also makes it ideal for power management, and its small form factor allows for easy integration into our product design. Additionally, the TC74A4 has a digital output that makes communication with our microcontroller possible, simplifying our design process. Overall, this temperature sensor is a reliable and efficient choice for our environment sensing needs.  
  
 Microcontroller: The PIC18F27J53 microcontroller was chosen for our design due to its high processing power, versatility, and low power consumption. With a clock speed of up to 48 MHz, this microcontroller can handle complex tasks and algorithms with ease. Its versatile architecture and large memory capacity make it suitable for a wide range of applications, including control systems, data acquisition, and communication interfaces. It also has built-in communication interfaces, including modules for SPI, I2C, UART, USB and Ethernet, which simplify our design process. Additionally, this PIC has 28-pins which leaves plenty of GPIO's after our serial communication channels are already connected. Overall, the PIC18F27J53 microcontroller is a reliable and efficient choice for our embedded system needs. 
+
+![powerBudget](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204PowerBudget.png?raw=true)
   
 * [Link to Component Selection](/ComponentSelect)
   
