@@ -109,5 +109,7 @@ Microcontroller: The PIC18F27J53 microcontroller was chosen for our design due t
 
 ![softwareProp](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204Software.png?raw=true)
 
+The code and flow for our software is fairly simple due to utilizing only 1 sensor for our final project. The TC74 temperature sensor communicates through I2C and then transmits that data to an ESP32 over UART and finally prints to the MQTT wifi server. Unfortunately we did not get to implement an interrupt and bidirectional communication into our project due to time constraints.
+
 * [Link to Software Proposal](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Soft.png?raw=true)
 
