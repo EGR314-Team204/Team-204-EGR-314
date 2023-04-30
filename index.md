@@ -55,7 +55,50 @@ We strive to reach every aspect we defined through this research. We are priorit
   
 * [Link to User Needs, Benchmarking, and Requirements Page](/UserNeed)
   
-  
+## Product Requirements 
+
+Product Design-
+
+i. Design will optimize space to acquire a sleek and compact size
+ii. Design will be able to withstand harsh outdoor conditions and be weather-resistant
+iii. Must be cost efficient for the consumer.
+iv. Must be compact for portability.
+
+Functionality/ Software-
+
+i. Mobile app control, allow the user to adjust settings and monitor the system remotely via a mobile app or internet connection
+ii. System will utilize a variety of sensors to monitor environmental conditions such as temperature, humidity, wind speed, etc
+iii. Data will be transmitted to internet
+iv. Physical displays of the data recorded (gauge)
+
+Interactivity/ User experience-
+
+i. Device setup should be easy and include detailed instructions
+ii. Usage of device and interface should be straight forward
+iii. Maintenance should be basic or non existent
+iv. Clear and easy instructions for repair or operation.
+
+Customization-
+
+i. The user should be able to adjust the sensitivity of the environmental sensors to match their specific needs
+ii. The user should be able to modify the displayed outputs to visualize the data they need.
+iii. The user must be able to connect it to multiple power inputs. (USB/AC)
+iv. The user would be able to modify the components as needed, i.e; replacement parts, new case, etc.
+
+Manufacturing-
+
+i. Should be designed to be recycled or reused
+ii. Materials should be cost efficient without compromising quality
+iii. Material will be durable and have longevity
+iv. Quality materials must be used when necessary.
+
+Safety-
+
+i. The overall product must be designed in a way that avoids risk to the user.
+ii. Exclusion/reduction of materials that are potentially hazardous.
+iii. Space for any warning labels/details.
+iv. Instructions on how to operate safely.
+
 ## Design Ideation
 When designing our project, we needed to take into consideration many more ideas than the required project parameters. For instance, the product would be worthless if it caused harm to the user. With this in mind, we proceeded to create Jamboards. Jamboards are an online version of a wall of sticky notes, a place where we throw every conceivable point, idea, requirement and thought onto a page.  
   
