@@ -161,3 +161,11 @@ The code and flow for our software is fairly simple due to utilizing only 1 sens
 
 * [Link to Software Proposal](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Soft.png?raw=true)
 
+## Appendix A Bill of Materials
+
+![BOM](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204BOM.png?raw=true)
+
+## Appendix B MQTT Topic Table
+
+## Appendix C MPLabX main.c code 
+
