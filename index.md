@@ -149,6 +149,8 @@ The Power Budget was a tool we used to document and calculate our power needs. W
 
 ![hardwareProp](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204Schematic.png?raw=true)
 
+The above schematic is essential to satisfying user needs and product requirements. It provides a clear and concise visualization of the circuit, which is especially helpful for us to understand how the circuit works and how it can be optimized. It helps determine the function of each component and how they are connected together, which can help to ensure that the circuit meets the desired product requirements. As seen in the schematic the TC74 and ESP32 satisfy user requirements by sensing the surrounding environments temperature and relaying to the internet to be remotely monitered by the user. Which of course is made possible by the voltage regulator circuit providing adequate wall power to all components. As well as the microcontroller which runs the desired program for the design and oversees operation of the other subsystems.
+
 ![PCBDesign](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204PCBDesign.png?raw=true)
 
 ![PCBfront](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204PCB.png?raw=true)
@@ -160,6 +162,20 @@ The Power Budget was a tool we used to document and calculate our power needs. W
 The code and flow for our software is fairly simple due to utilizing only 1 sensor for our final project. The TC74 temperature sensor communicates through I2C and then transmits that data to an ESP32 over UART and finally prints to the MQTT wifi server. Unfortunately we did not get to implement an interrupt and bidirectional communication into our project due to time constraints.
 
 * [Link to Software Proposal](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Soft.png?raw=true)
+
+## System Verification 
+
+![SystemVerification](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204Verification.png?raw=true)
+
+## Lessons Learned
+
+## Recommendations for future students 
+
+1. <br>
+2. <br>
+3. <br>
+4. <br>
+5. <br>
 
 ## Appendix A Bill of Materials
 
