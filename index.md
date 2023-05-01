@@ -179,11 +179,11 @@ If we were to create a version 2 of our software design, we would prioritize sev
 
 ## Recommendations for future students 
 
-1. <br>
-2. <br>
-3. <br>
-4. <br>
-5. <br>
+1. Always visit office hours for troubleshooting or getting help with assignments, do not be afraid to ask questions until you understand<br>
+2. Coordinate assignments and action plans with your team memebers well in advance to a deadline so that the quality of work is not degraded<br>
+3. Familiarize yourself with cadence as much as you can and even mock up assignments early so that when it comes time to design it is easier on you and any possible fluke issues can be handled well in advance<br>
+4. When it comes to team conflict always be professional and try to internally resolve problems, if that is unsuccessful approach the professor for a conflict resolution<br>
+5. Be nice to Professor Aukes and the teaching team they want to help you succeed, but it is harder if you are being a jerk<br>
 
 ## Appendix A Bill of Materials
 
@@ -192,5 +192,93 @@ If we were to create a version 2 of our software design, we would prioritize sev
 ## Appendix B MQTT Topic Table
 
 ## Appendix C MPLabX main.c code 
+#include "mcc_generated_files/mcc.h"
+#include "mcc_generated_files/examples/i2c1_master_example.h"
+#include <stdio.h>
+#include <stdlib.h>
+#define address 0x4C
+#define tempreg 0x00
+ uint8_t temp;
+ 
+ 
 
+void getTemp()
+{
+    temp = I2C1_Read1ByteRegister(address, tempreg);
+    printf("Temperature in Degrees Celsius = %d\r\n", temp);
+    //EUSART2_Write(temp);
+    LED2_Toggle();
+    delay_ms(200);
+}
+//char str[80];
+uint8_t rx1Data;
+
+void ISR1(void)
+
+{
+    EUSART2_Receive_ISR();
+    if (EUSART2_is_rx_ready()) 
+    {
+        rx1Data = EUSART2_Read();
+        printf("temp = %d\r", rx1Data);
+        LED1_Toggle();
+    }
+      //  if (EUSART1_is_tx_ready()) 
+      //  {
+       //     EUSART1_Write(rx1Data);
+
+        //}
+
+    }
+ 
+ 
+void main(void)
+{
+    // Initialize the device
+    SYSTEM_Initialize();
+    I2C1_Initialize();
+    EUSART1_Initialize();
+    //EUSART1_Initialize();
+
+    //EUSART2_SetRxInterruptHandler(getTemp);
+
+
+    // Enable the Global Interrupts
+    INTERRUPT_GlobalInterruptEnable();
+    // Enable the Peripheral Interrupts
+    INTERRUPT_PeripheralInterruptEnable();
+
+    //EUSART2_SetRxInterruptHandler(EUSART2_ISR_callback);
+    EUSART2_SetRxInterruptHandler(ISR1);
+
+
+    //getTemp();
+    while (1)
+    {
+        getTemp();
+
+
+       // ISR1();
+
+
+
+
+}
+}
+
+
+
+
+
+    /*while (PORTCbits.RC0 != 0) // Keep blinking LED until Jumper is low
+            {
+        LED2_SetHigh(); // Turn on LED
+        delay_ms(500);
+        LED2_SetLow(); // Turn off LED
+        __delay_ms(500);
+        }
+            LED2_SetLow(); // Turn off LED when Jumper is low
+
+
+}*/
 ## Appendix D MCC Configuration
