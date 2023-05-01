@@ -157,9 +157,17 @@ The above schematic is essential to satisfying user needs and product requiremen
 
 ![PCBback](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204PCBback.png?raw=true)
 
+# Version 2.0 Hardware "what if":
+As we look to the future and the possibility of a version 2.0 of our hardware design, there are a few key areas that we would like to address. First and foremost, we want to ensure that all the pins are connected correctly. In the previous iteration of our design, we had to resort to using jumper wires on the final board to compensate for some pin connectivity issues. This was less than ideal, and we want to avoid it in the future. To that end, we plan to thoroughly review and test the pin connections before moving forward with any additional design work. We want to be certain that everything is in order before proceeding to avoid any unnecessary complications down the line. In addition to addressing the pin connectivity, we also want to expand the capabilities of our design by adding more peripherals. Specifically, we're interested in incorporating a fan and a humidity sensor. These additions will enable the project to more accurately simulate real-world environmental conditions, which is a key aspect of our overall objective. Lastly, we are aware that there were some footprint errors in the previous iteration of our design that were not resolved. We plan to prioritize the resolution of these errors before making any other modifications. By doing so, we can ensure that our subsequent design work is built on a solid foundation, and that any further changes or improvements are made with complete confidence in the underlying structure of the design.
+
 ![softwareProp](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204Software.png?raw=true)
 
 The code and flow for our software is fairly simple due to utilizing only 1 sensor for our final project. The TC74 temperature sensor communicates through I2C and then transmits that data to an ESP32 over UART and finally prints to the MQTT wifi server. Unfortunately we did not get to implement an interrupt and bidirectional communication into our project due to time constraints.
+
+# 5 Biggest Changes to software 
+
+# Version 2.0 Software "what if"
+If we were to create a version 2 of our software design, we would prioritize several key improvements to the existing code. Specifically, we would like to implement interrupts between a fan, temperature sensor, humidity sensor, and LEDs. Doing so would allow for more efficient and reliable communication between these different components, resulting in a more streamlined and effective system overall. In the previous iteration of our software, we were not able to implement these interrupts due to time constraints and limited resources. However, with a new version of the software, we would have the opportunity to allocate more time and resources to these critical aspects of the design. In addition to implementing interrupts, we would also like to dive into the code itself and ensure that we have robust debugging LEDs and other functions to verify that the software is working as intended. This would help us to identify any issues or errors more quickly and accurately, minimizing downtime and maximizing productivity. Another area where we see potential for improvement is in the user interface. Specifically, we would like to implement multiple pushbuttons and an LCD display to enhance the device's overall usability and functionality. By incorporating these features, we could provide users with more options and greater control over the device's operation, which would be particularly useful in more complex applications. Overall, we believe that these changes would significantly enhance the performance, reliability, and user-friendliness of our software design.
 
 * [Link to Software Proposal](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Soft.png?raw=true)
 
@@ -185,3 +193,4 @@ The code and flow for our software is fairly simple due to utilizing only 1 sens
 
 ## Appendix C MPLabX main.c code 
 
+## Appendix D MCC Configuration
