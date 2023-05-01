@@ -192,93 +192,94 @@ If we were to create a version 2 of our software design, we would prioritize sev
 ## Appendix B MQTT Topic Table
 
 ## Appendix C MPLabX main.c code 
-#include "mcc_generated_files/mcc.h"
-#include "mcc_generated_files/examples/i2c1_master_example.h"
-#include <stdio.h>
-#include <stdlib.h>
-#define address 0x4C
-#define tempreg 0x00
- uint8_t temp;
+#include "mcc_generated_files/mcc.h" <br>
+#include "mcc_generated_files/examples/i2c1_master_example.h" <br>
+#include <stdio.h> <br>
+#include <stdlib.h> <br>
+#define address 0x4C <br>
+#define tempreg 0x00 <br>
+ uint8_t temp; <br>
  
  
 
-void getTemp()
-{
-    temp = I2C1_Read1ByteRegister(address, tempreg);
-    printf("Temperature in Degrees Celsius = %d\r\n", temp);
-    //EUSART2_Write(temp);
-    LED2_Toggle();
-    delay_ms(200);
-}
-//char str[80];
-uint8_t rx1Data;
+void getTemp() <br>
+{ <br>
+    temp = I2C1_Read1ByteRegister(address, tempreg); <br>
+    printf("Temperature in Degrees Celsius = %d\r\n", temp); <br>
+    //EUSART2_Write(temp); <br>
+    LED2_Toggle(); <br>
+    delay_ms(200); <br>
+} <br>
+//char str[80]; <br>
+uint8_t rx1Data; <br>
 
-void ISR1(void)
+void ISR1(void) <br>
 
-{
-    EUSART2_Receive_ISR();
-    if (EUSART2_is_rx_ready()) 
-    {
-        rx1Data = EUSART2_Read();
-        printf("temp = %d\r", rx1Data);
-        LED1_Toggle();
-    }
-      //  if (EUSART1_is_tx_ready()) 
-      //  {
-       //     EUSART1_Write(rx1Data);
+{ <br>
+    EUSART2_Receive_ISR(); <br>
+    if (EUSART2_is_rx_ready()) <br>
+    { <br>
+        rx1Data = EUSART2_Read(); <br>
+        printf("temp = %d\r", rx1Data); <br>
+        LED1_Toggle(); <br>
+    } <br>
+      //  if (EUSART1_is_tx_ready()) <br>
+      //  { <br>
+       //     EUSART1_Write(rx1Data); <br>
 
-        //}
+        //} <br>
 
-    }
+    } <br>
  
  
-void main(void)
-{
-    // Initialize the device
-    SYSTEM_Initialize();
-    I2C1_Initialize();
-    EUSART1_Initialize();
-    //EUSART1_Initialize();
+void main(void) <br>
+{ <br>
+    // Initialize the device <br>
+    SYSTEM_Initialize(); <br>
+    I2C1_Initialize(); <br>
+    EUSART1_Initialize(); <br>
+    //EUSART1_Initialize(); <br>
 
-    //EUSART2_SetRxInterruptHandler(getTemp);
-
-
-    // Enable the Global Interrupts
-    INTERRUPT_GlobalInterruptEnable();
-    // Enable the Peripheral Interrupts
-    INTERRUPT_PeripheralInterruptEnable();
-
-    //EUSART2_SetRxInterruptHandler(EUSART2_ISR_callback);
-    EUSART2_SetRxInterruptHandler(ISR1);
+    //EUSART2_SetRxInterruptHandler(getTemp); <br>
 
 
-    //getTemp();
-    while (1)
-    {
-        getTemp();
+    // Enable the Global Interrupts <br>
+    INTERRUPT_GlobalInterruptEnable(); <br>
+    // Enable the Peripheral Interrupts <br>
+    INTERRUPT_PeripheralInterruptEnable(); <br>
+
+    //EUSART2_SetRxInterruptHandler(EUSART2_ISR_callback); <br>
+    EUSART2_SetRxInterruptHandler(ISR1); <br>
 
 
-       // ISR1();
+    //getTemp(); <br>
+    while (1) <br>
+    { <br>
+        getTemp(); <br>
 
 
-
-
-}
-}
+       // ISR1(); <br>
 
 
 
 
-
-    /*while (PORTCbits.RC0 != 0) // Keep blinking LED until Jumper is low
-            {
-        LED2_SetHigh(); // Turn on LED
-        delay_ms(500);
-        LED2_SetLow(); // Turn off LED
-        __delay_ms(500);
-        }
-            LED2_SetLow(); // Turn off LED when Jumper is low
+} <br>
+} <br>
 
 
-}*/
+
+
+
+    /*while (PORTCbits.RC0 != 0) // Keep blinking LED until Jumper is low <br>
+            { <br>
+        LED2_SetHigh(); // Turn on LED <br>
+        delay_ms(500); <br>
+        LED2_SetLow(); // Turn off LED <br>
+        __delay_ms(500); <br>
+        } <br>
+            LED2_SetLow(); // Turn off LED when Jumper is low <br>
+
+
+}*/ <br>
+
 ## Appendix D MCC Configuration
