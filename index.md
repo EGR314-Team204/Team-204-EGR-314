@@ -136,14 +136,16 @@ Temperature Sensor: The TC74A4 temperature sensor was chosen for our design due 
 Microcontroller: The PIC18F27J53 microcontroller was chosen for our design due to its high processing power, versatility, and low power consumption. With a clock speed of up to 48 MHz, this microcontroller can handle complex tasks and algorithms with ease. Its versatile architecture and large memory capacity make it suitable for a wide range of applications, including control systems, data acquisition, and communication interfaces. It also has built-in communication interfaces, including modules for SPI, I2C, UART, USB and Ethernet, which simplify our design process. Additionally, this PIC has 28-pins which leaves plenty of GPIO's after our serial communication channels are already connected. Overall, the PIC18F27J53 microcontroller is a reliable and efficient choice for our embedded system needs. 
 
 ![powerBudget](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204PowerBudget.png?raw=true)
-  
+
+The Power Budget was a tool we used to document and calculate our power needs. We listed our components and their current and voltage needs in their respective power rails, typically for more complex projects there can be multiple power rails, luckily for ours there is only one which is the 3.3V rail which represents our 3.3V switching voltage regulator. To ensure we are not drawing more current than the regulator can handle we calculated the max current that could be drawn from our subsytems and compared it against the max output current of the voltage regulator with a 25% safety margin. 
+
 * [Link to Component Selection](/ComponentSelect)
   
 * [Link to Microcontroller Selection](/MicroSelect)
 
 * [Power Budget](https://docs.google.com/spreadsheets/d/1ZWJujIUSddGSwfPPaxeSsj4ZDpHQYlIZ/edit#gid=2120733341)
 
-## Hardware and Software Proposal
+## Hardware and Software Implementation
 
 ![hardwareProp](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204Schematic.png?raw=true)
 
