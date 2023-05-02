@@ -166,6 +166,12 @@ The code and flow for our software is fairly simple due to utilizing only 1 sens
 
 5 Biggest Changes to software: 
 
+1. Removal of our actuator subsystem
+2. Initially the software included 1 interrupt but due to time constraints it was removed
+3. A push button also did not get implemented into the final software 
+4. Did not pursue interactivity function on MQTT(Bidirectional MQTT communication)
+5. Removed one LED blinking while loop, only utilized one LED
+
 Version 2.0 Software "what if":
 If we were to create a version 2 of our software design, we would prioritize several key improvements to the existing code. Specifically, we would like to implement interrupts between a fan, temperature sensor, humidity sensor, and LEDs. Doing so would allow for more efficient and reliable communication between these different components, resulting in a more streamlined and effective system overall. In the previous iteration of our software, we were not able to implement these interrupts due to time constraints and limited resources. However, with a new version of the software, we would have the opportunity to allocate more time and resources to these critical aspects of the design. In addition to implementing interrupts, we would also like to dive into the code itself and ensure that we have robust debugging LEDs and other functions to verify that the software is working as intended. This would help us to identify any issues or errors more quickly and accurately, minimizing downtime and maximizing productivity. Another area where we see potential for improvement is in the user interface. Specifically, we would like to implement multiple pushbuttons and an LCD display to enhance the device's overall usability and functionality. By incorporating these features, we could provide users with more options and greater control over the device's operation, which would be particularly useful in more complex applications. Overall, we believe that these changes would significantly enhance the performance, reliability, and user-friendliness of our software design.
 
@@ -176,6 +182,8 @@ If we were to create a version 2 of our software design, we would prioritize sev
 ![SystemVerification](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204Verification.png?raw=true)
 
 ## Lessons Learned
+
+Throughout the term, our team learned a lot about various aspects of our project, including working with Github, surface mount soldering, microcontroller selection, I2C communication, MQTT wifi capabilities, teamwork and commitment, the ESP32 component, effective communication, testing, and time management. We found that working with Github was interesting and useful for future projects, as it allowed us to collaborate efficiently and manage our project in an organized way. Surface mount soldering was challenging but taught us the importance of patience and attention to detail. Selecting the right microcontroller and thoroughly researching project specifications before making decisions saved us time and prevented delays. Coding in I2C was initially challenging, but it allowed us to communicate between components with ease. Adding MQTT wifi capabilities was a highlight of the project and taught us the value of persistence. Effective communication was crucial for project success, and we learned to listen actively, ask questions, and share ideas openly. Testing the project thoroughly before presenting it helped us identify and fix any bugs or errors. Time management was critical, and we learned to prioritize tasks and set realistic deadlines to complete the project on time and to a high standard.
 
 ## Recommendations for future students 
 
@@ -190,6 +198,8 @@ If we were to create a version 2 of our software design, we would prioritize sev
 ![BOM](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204BOM.png?raw=true)
 
 ## Appendix B MQTT Topic Table
+
+![MQTT](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204MQTT.png?raw=true)
 
 ## Appendix C MPLabX main.c code 
 #include "mcc_generated_files/mcc.h" <br>
@@ -283,3 +293,5 @@ void main(void) <br>
 }*/ <br>
 
 ## Appendix D MCC Configuration
+
+![MCC](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Team204MCC.png?raw=true)
