@@ -21,7 +21,7 @@ Richard Green
 * [Block Diagram](https://egr314-team204.github.io/#block-diagram)
 * [Component and Microcontroller Selection](https://egr314-team204.github.io/#component-and-microcontroller-selection)
 * [Software and Hardware Proposal](https://egr314-team204.github.io/#hardware-and-software-proposal)
-
+* [System Verification](https://egr314-team204.github.io/#system-verification)
 
 
 ## Introduction: Team 204 Semester Project  
@@ -110,8 +110,6 @@ After we had finished this process, we generated a couple concepts. Including a 
 ## Presentation
  *[https://www.youtube.com/watch?v=ebKb8as0qI8](https://www.youtube.com/watch?v=ebKb8as0qI8)
   
-  
-# Our Design
 
 ## Selecting Our Design  
 ![Final Concept](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/314_Concept.png?raw=true)
@@ -174,8 +172,6 @@ The code and flow for our software is fairly simple due to utilizing only 1 sens
 
 Version 2.0 Software "what if":
 If we were to create a version 2 of our software design, we would prioritize several key improvements to the existing code. Specifically, we would like to implement interrupts between a fan, temperature sensor, humidity sensor, and LEDs. Doing so would allow for more efficient and reliable communication between these different components, resulting in a more streamlined and effective system overall. In the previous iteration of our software, we were not able to implement these interrupts due to time constraints and limited resources. However, with a new version of the software, we would have the opportunity to allocate more time and resources to these critical aspects of the design. In addition to implementing interrupts, we would also like to dive into the code itself and ensure that we have robust debugging LEDs and other functions to verify that the software is working as intended. This would help us to identify any issues or errors more quickly and accurately, minimizing downtime and maximizing productivity. Another area where we see potential for improvement is in the user interface. Specifically, we would like to implement multiple pushbuttons and an LCD display to enhance the device's overall usability and functionality. By incorporating these features, we could provide users with more options and greater control over the device's operation, which would be particularly useful in more complex applications. Overall, we believe that these changes would significantly enhance the performance, reliability, and user-friendliness of our software design.
-
-* [Link to Software Proposal](https://github.com/EGR314-Team204/egr314-team204.github.io/blob/main/media/media/Soft.png?raw=true)
 
 ## System Verification 
 
