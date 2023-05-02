@@ -25,7 +25,7 @@ Richard Green
 * [Lessons Learned](https://egr314-team204.github.io/#lessons-learned)
 * [Recommendations for future students](https://egr314-team204.github.io/#recommendations-for-future-students)
 
-## Introduction: Team 204 Semester Project  
+## Introduction: Team 204 Semester Project 
 Our team has been tasked with creating a weather station that can sense the environment around us with the implementation of a controlled response. We decided on the idea to create a product that will sense the environment of a terrarium to control the climate inside. We will be using a temperature sensor utilizing a PIC microcontroller and ESP32. As a team, we will use our knowledge gained from this semester to plan, design, and manufacture a printed circuit board that will combine our individual subsystems to work together. As we move along further in the semester we will document our work on how we came up with our design and every piece of information we have pertaining to our project. As of right now, we are currently working on individual PCBs for our subsystems to make sure they work and if they don’t we can fix any mistakes before we design our team board.  
   
   
